@@ -1,0 +1,6 @@
+name="searchbar"
+compatibility_date="2024-05-10"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://driven-elk-32644.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AX-EAAIncDE4ZTYwZTU4YzhiYmY0NmIxOTdmYWJjNTEwZTFlY2VkNHAxMzI2NDQ"
